@@ -1,7 +1,7 @@
 # Flashlight App using Flutter
 
 ## What I Learned
-  * BLoc/Cubit
+  * State Management using BLoc/Cubit
   * Playing Audio using audio_players package
   
 ## UI when Flashlight is Off
